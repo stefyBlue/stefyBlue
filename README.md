@@ -6,7 +6,7 @@
 
 ## Descripción
 
-o_Proyecto en compañia del profe Carlos para mi primer repositorio_.
+*Proyecto en compañia del profe Carlos para mi primer repositorio**
 
 ## Características
 - Característica 1
