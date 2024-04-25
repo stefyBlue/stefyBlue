@@ -6,7 +6,7 @@
 
 ## Descripción
 
-Breve descripción del proyecto, objetivos y funcionalidades principales. 
+o_Proyecto en compañia del profe Carlos para mi primer repositorio_.
 
 ## Características
 - Característica 1
