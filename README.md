@@ -6,7 +6,7 @@
 
 ## Descripción
 
-*Proyecto en compañia del profe Carlos para mi primer repositorio*
+*Not description at all*
 
 ## Características
 - Característica 1
