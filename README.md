@@ -1,6 +1,8 @@
 # Título del Proyecto 
 
-![Imagen de Portada](url_de_la_imagen) 
+![Imagen de Portada](recursos/rilakkuma.jpg
+) 
+
 
 ## Descripción
 
