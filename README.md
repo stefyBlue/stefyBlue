@@ -8,9 +8,7 @@
 *Not description at all*
 
 ## Características
-- Característica 1
-- Característica 2
-- Característica 3 
+My name in Giovanni Giorgio, but everybody calls me *Giorgio*
 
 ## Instalación 
 
