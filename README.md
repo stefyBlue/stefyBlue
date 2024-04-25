@@ -1,7 +1,6 @@
 # Título del Proyecto 
 
-![Imagen de Portada](recursos/rilakkuma.jpg
-) 
+![Imagen de Portada](recursos/gatito.gif) 
 
 
 ## Descripción
